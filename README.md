@@ -12,8 +12,8 @@ Packages version: refer to [requirements.txt](https://github.com/chiehyyu/Findin
 ## Baseline
 Multinomial Logistic Regression (MLR)
 ## Main Approaches
-Gate Recurrent Unit (GRU)
-Long Short-Term Memory (LSTM)
+Gate Recurrent Unit (GRU)  
+Long Short-Term Memory (LSTM)  
 Bidirectional Long Short-Term Memory (Bi-LSTM)
 
 ## Contribution of each member
