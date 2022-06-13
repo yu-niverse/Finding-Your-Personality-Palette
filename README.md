@@ -10,12 +10,16 @@ The topic idea comes from our enthusiasm towards color science and psychological
 Environment: Google Colaboratory  
 Packages version: refer to [requirements.txt](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/requirement.txt) in our github
 ### Usage
-Dataset: https://reurl.cc/VDQxYn
-Happy　35%
-Sadness　31%
-Anger　15%
-Fear　14%
-Surprise　5%
+Dataset: https://reurl.cc/VDQxYn  
+Happy　35%  
+Sadness　31%  
+Anger　15%  
+Fear　14%  
+Surprise　5%  
+### Hyperparameters
+Epoch/iteration: 10
+Learning Rate: 0.01
+TrainData, ValidationData, and TestData proportion: 6-1-3
 ### Baseline
 Multinomial Logistic Regression (MLR)
 ### Main Approach
