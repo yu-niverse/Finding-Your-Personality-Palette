@@ -30,9 +30,7 @@ Long Short-Term Memory (LSTM)
 Bidirectional Long Short-Term Memory (Bi-LSTM)
 
 ### Execution Results  
-![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Accuracy_Compare.png)
-![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Running_Time_Compare.png)
-![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Learning_Rate_Compare.png)
+<img src="https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Accuracy_Compare.png" width="300">  <img src="https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Accuracy_Compare.png" width="300">  <img src="https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Accuracy_Compare.png" width="300">
 
 ### Contribution of each member
 Chieh-Yu Chuang: 50%, Chun-Pei Chen: 50%
