@@ -22,7 +22,7 @@ Learning Rate: 0.01
 TrainData, ValidationData, and TestData proportion: 6-1-3  
 ### Baseline
 Multinomial Logistic Regression (MLR)
-## Main Approaches
+### Main Approaches
 Gate Recurrent Unit (GRU)  
 Long Short-Term Memory (LSTM)  
 Bidirectional Long Short-Term Memory (Bi-LSTM)
