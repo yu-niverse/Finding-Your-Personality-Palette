@@ -1,0 +1,13 @@
+numpy
+pandas
+re
+os
+neattext
+nltk
+sklearn
+tensorflow
+matplotlib
+turtle
+ColabTurtle
+time
+
