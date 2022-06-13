@@ -29,7 +29,7 @@ Gate Recurrent Unit (GRU)
 Long Short-Term Memory (LSTM)  
 Bidirectional Long Short-Term Memory (Bi-LSTM)
 
-###Execution Results
+### Execution Results  
 ![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Accuracy_Compare.png)
 ![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Running_Time_Compare.png)
 ![image](https://github.com/chiehyyu/Finding-Your-Personality-Palette/blob/main/Learning_Rate_Compare.png)
