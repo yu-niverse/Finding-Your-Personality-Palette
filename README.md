@@ -1,4 +1,4 @@
-# Finding-Your-Personality-Palette
+# Finding Your Personality Palette
 Check Point Report: https://reurl.cc/1Z7ADp  
 Video: https://reurl.cc/e372xM
 ### Author
